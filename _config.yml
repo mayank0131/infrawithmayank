@@ -1,0 +1,17 @@
+title: "Mayank Dixit | DevOps & Cloud Engineer"
+description: "Automating Cloud Infrastructure, CI/CD, and DevSecOps."
+theme: jekyll-theme-minimal
+# logo: /assets/images/profile.png
+show_downloads: false
+
+# Social links
+social_links:
+  github: "https://github.com/mayank0131"
+  linkedin: "https://www.linkedin.com/in/mayank93/"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Build settings
+markdown: kramdown
