@@ -4,6 +4,10 @@ theme: jekyll-theme-minimal
 # logo: /assets/images/profile.png
 show_downloads: false
 
+github:
+  is_project_page: false
+  owner_url: "https://github.com/mayank0131"
+
 # Social links
 social_links:
   github: "https://github.com/mayank0131"
