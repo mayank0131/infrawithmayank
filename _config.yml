@@ -5,7 +5,7 @@ theme: jekyll-theme-minimal
 show_downloads: false
 
 github:
-  repository_url: "https://github.com/mayank0131"
+  owner_url: "https://github.com/mayank0131"
 
 # Social links
 social_links:
